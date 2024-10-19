@@ -920,11 +920,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shi-2\\OneDrive\\Escritorio\\tarea Info aplicada\\TareaInfoAplicada\\TareaInfoAplicada.csproj",
+      "projectUniqueName": "C:\\Users\\shi-2\\OneDrive\\Escritorio\\tarea\\TareaInfoAplicada\\TareaInfoAplicada.csproj",
       "projectName": "TareaInfoAplicada",
-      "projectPath": "C:\\Users\\shi-2\\OneDrive\\Escritorio\\tarea Info aplicada\\TareaInfoAplicada\\TareaInfoAplicada.csproj",
+      "projectPath": "C:\\Users\\shi-2\\OneDrive\\Escritorio\\tarea\\TareaInfoAplicada\\TareaInfoAplicada.csproj",
       "packagesPath": "C:\\Users\\shi-2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shi-2\\OneDrive\\Escritorio\\tarea Info aplicada\\TareaInfoAplicada\\obj\\",
+      "outputPath": "C:\\Users\\shi-2\\OneDrive\\Escritorio\\tarea\\TareaInfoAplicada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shi-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
