@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dloeAo35X90=",
+  "dgSpecHash": "/WwynbyGZ5I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shi-2\\OneDrive\\Escritorio\\tarea\\TareaInfoAplicada\\TareaInfoAplicada.csproj",
+  "projectFilePath": "C:\\Users\\shi-2\\OneDrive\\Escritorio\\tarea Info aplicada\\TareaInfoAplicada\\TareaInfoAplicada.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shi-2\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\shi-2\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
